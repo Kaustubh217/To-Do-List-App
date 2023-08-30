@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the To-Do-List-App. Here is a guideline to help you get started to use To-Do-List-App in Visual Studio Code.
 
 ## Folder Structure
 
@@ -13,6 +13,24 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+## App functionalities
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Create - Create command will create new to do list item in app
+
+List - List command will list all of the to do items
+
+Read - Read command will read single to do list item by item number 
+
+Update - Update command will update a to do list item by item number
+
+Delete - Delete command will delete a to do list item by item number
+
+Size - Size command will resize the to do list
+
+Restart - Restart command will restart the application (all data lost!)
+
+Exit - Exit command will exit the application
+
+Help - Help command will give you helpful information of the commands 
+
+
